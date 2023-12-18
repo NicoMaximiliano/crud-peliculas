@@ -235,9 +235,9 @@ public class VentanaActualizar extends javax.swing.JFrame {
         }       
     }
     
-    private void btnActualizarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnActualizarActionPerformed
+    private void btnActualizarActionPerformed(java.awt.event.ActionEvent evt) {
         actualizar();
-    }//GEN-LAST:event_btnActualizarActionPerformed
+    }
 
     
 

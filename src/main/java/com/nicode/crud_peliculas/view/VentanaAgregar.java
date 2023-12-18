@@ -214,9 +214,9 @@ public class VentanaAgregar extends javax.swing.JFrame {
         }       
     }
     
-    private void btnAgregarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAgregarActionPerformed
+    private void btnAgregarActionPerformed(java.awt.event.ActionEvent evt) {
         agregar();
-    }//GEN-LAST:event_btnAgregarActionPerformed
+    }
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

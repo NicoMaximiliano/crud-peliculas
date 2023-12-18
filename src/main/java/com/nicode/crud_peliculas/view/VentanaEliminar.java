@@ -115,9 +115,9 @@ public class VentanaEliminar extends javax.swing.JFrame {
     }
     
     
-    private void btnEliminarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnEliminarActionPerformed
+    private void btnEliminarActionPerformed(java.awt.event.ActionEvent evt) {
         eliminar();
-    }//GEN-LAST:event_btnEliminarActionPerformed
+    }
 
    
     // Variables declaration - do not modify//GEN-BEGIN:variables
